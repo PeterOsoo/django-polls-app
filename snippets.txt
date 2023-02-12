@@ -1,0 +1,16 @@
+Start venv -> 
+
+Run -> .
+..\venv\Scripts\activate.bat
+
+Stop -> deactivate
+
+python manage.py runserver
+
+rateng
+Email address: rateng@gmail.com
+testing321
+
+
+python manage.py makemigrations
+python manage.py migrate
