@@ -6,6 +6,9 @@ from .models import Question
 
 # Create your tests here.
 
+# create an instance of the client for our use
+# client = Client()
+
 
 class QuestionModelTests(TestCase):
 
