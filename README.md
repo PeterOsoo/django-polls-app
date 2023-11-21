@@ -1,3 +1,3 @@
 # django-polls-app
 
-Polls app
+Simple Polls app
